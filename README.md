@@ -9,7 +9,7 @@
 - ⚡ Fun fact: Photography enthusiast, avid gamer
 
   ## 🌐 Connect with me:
-- [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/@0xterrybit) - @0xterrybit
+- [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/@0xterrybit)
 - [![Email](https://img.shields.io/badge/Email-mailto%3A0xterrybit%40gmail.com-blue?style=flat&logo=gmail&logoColor=white)](0xterrybit@gmail.com)
 
 <table width="100%">
