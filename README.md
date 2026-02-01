@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://t.me/terrypunk" target="_blank">Hi 👋, I'm an AI & Crypto Payments Researcher 👈🏻</a></h1>
+<h1 align="center"><a href="https://t.me/terrypunk" target="_blank">Hi 👋, I'm an AI & Crypto Researcher 👈🏻</a></h1>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=0xterrybit" alt="0xterrybit" /> 
